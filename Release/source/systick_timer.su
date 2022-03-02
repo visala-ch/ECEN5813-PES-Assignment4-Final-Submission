@@ -1,0 +1,7 @@
+systick_timer.c:33:6:init_systick	0	static
+systick_timer.c:55:12:now	0	static
+systick_timer.c:67:6:reset_timer	0	static
+systick_timer.c:82:12:get_timer	0	static
+systick_timer.c:94:6:SysTick_Handler	0	static
+systick_timer.c:108:6:reset_counter	0	static
+systick_timer.c:121:12:get_counter	0	static

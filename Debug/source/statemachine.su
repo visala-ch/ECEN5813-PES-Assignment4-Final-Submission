@@ -1,0 +1,3 @@
+statemachine.c:44:5:detect_touch	8	static
+statemachine.c:63:7:state_dump	24	static
+statemachine.c:120:6:Statemachine	24	static

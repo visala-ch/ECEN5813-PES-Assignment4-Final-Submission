@@ -1,0 +1,5 @@
+core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+gpio_switch.c:46:6:init_interrupt	8	static
+gpio_switch.c:75:6:PORTD_IRQHandler	8	static

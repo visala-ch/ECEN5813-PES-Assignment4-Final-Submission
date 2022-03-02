@@ -1,0 +1,2 @@
+capacitive_touch_sensor.c:31:6:init_touch_slider	8	static
+capacitive_touch_sensor.c:52:5:scan_LH_touch_slider	16	static
